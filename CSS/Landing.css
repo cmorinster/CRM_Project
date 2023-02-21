@@ -1,0 +1,407 @@
+
+.double-tap-img{
+
+    width: 150px;
+    height: 40px;
+
+}
+
+
+.btn-outline-primary {
+
+    color:#0314fe ;
+    border-color: #0314fe ;
+   
+}
+
+.btn-primary {
+
+    background-color:#0314fe;
+}
+
+.navbar-custom{
+ margin-left: 10%;
+ margin-right: 1.5%;
+ width: 60%;
+
+}
+
+.navbar-nav>a{
+    margin: 2%;
+    white-space: nowrap;
+    
+
+}
+
+.nav-button{
+    margin: 1%;
+    height: 40px;
+    width: 10%;
+}
+
+
+
+
+
+
+
+
+
+.Dots{
+
+    color:#0314fe;
+    margin:5px;
+    font-size: 18px; 
+}
+
+#Trial-list>p{
+    display: inline;
+    font-size:14px
+}
+
+.Top-Card{
+    margin-top:50px;
+}
+
+.Top-Card>h5{
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.Top-Card>h6 {
+    font-size: 32px;
+
+}
+
+.Top-Card>p{
+
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(157, 157, 157);
+    margin-bottom: 20px;
+
+}
+
+.Top-Card>a {
+margin-top: 20px;
+margin-bottom: 20px;
+width: 35%;
+font-weight: bold;
+font-size: 20px;
+margin-right: 10px;
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+
+.Top-Card>a i {
+
+    font-size: 20px;
+    height:50px;
+}
+
+
+.borderless-card{
+
+border: none;
+
+}
+
+.Top-Img>img{
+
+    height: 700px;
+    margin-left: 50px;
+}
+
+
+
+.text1{
+    text-align: center;
+    font-weight: 600;
+} 
+
+.text1 h5{
+    font-size:30px;
+    font-weight:700;
+    margin-top:2%;
+}
+
+.text1 hr{
+    width: 70%;
+    margin:auto;
+
+}
+
+.Mid-Card-Title{
+    text-align: center;
+    position: relative ;
+    top: 20px;
+}
+
+.Mid-Card{
+    width: 150px;
+    height: 150px;
+    display:flex;
+    align-items: center;
+}
+
+#img0{
+    width: 50px;
+    height: 60px;
+}
+
+#img1{
+    width: 50px;
+    height: 60px;
+}
+
+#img2{
+    width: 50px;
+    height: 60px;
+}
+
+#img3{
+    width: 50px;
+    height: 60px;
+}
+
+
+.Mid-Card-Body{
+    position: relative;
+    top: 20px;
+}
+
+#title1{
+    color: white;
+} 
+
+
+
+
+
+.card-text1{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.right-card{
+    background-color: #0314FE;
+    margin: 0;
+    border-radius: 0px 20px 20px 0px;
+
+
+
+}
+
+.card-text1 p{
+    font-size: 18px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+}
+.my-card-body{
+    
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    width: auto;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+}
+
+
+#img5{
+    
+    border-radius: 20px 0 0 20px;
+    height: 520px;
+    padding-top: 150px;
+    border: 0.5px solid grey;
+} 
+.card-list{
+    font-size: 14px;
+    margin-bottom: 15px;
+    
+}
+
+
+.card-list::marker {
+    content: "- ";
+    
+  }
+
+.card-text1>button{
+    margin-top: 30px;
+    background-color:#0314FE;
+    width: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-color: white;
+    border-width: 4px;
+    border-radius: 10px;
+    border-style: solid;
+   
+
+
+}
+
+.card-text1>button i, .card-text1>button p{
+    display:inline;
+    font-weight: bold;
+
+}
+
+.card-text1>button p{
+
+
+    font-size: 18px;
+    color: white;
+    
+}
+
+.card-text1>button i{
+
+position: absolute;
+right: 42%;
+color:white;
+font-size: 20px;
+
+}
+
+
+
+#Solutions {
+
+    font-size: 32px;
+}
+
+
+
+
+.Bottom-Card>i{
+    background-color: rgb(215, 233, 250);
+    font-size: 64px;
+    padding: 40px;
+    border-radius: 50%;
+    color:#0314fe;
+    
+}
+
+.Bottom-Card>h6{
+
+    margin-top: 50px;
+    font-size: 32px;
+}
+
+.Bottom-Card>p{
+
+  width: 70%;
+  margin-left: 15%;
+
+}
+
+.Bottom-Card>button{
+
+    background-color: white;
+    width: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+
+}
+
+.Bottom-Card>button i, .Bottom-Card>button p{
+    display:inline;
+    font-weight: bold;
+
+}
+
+.Bottom-Card>button p{
+
+
+    font-size: 14px;
+}
+
+.Bottom-Card>button i{
+
+position: absolute;
+right: 36%;
+
+}
+
+.Bottom-Card{
+
+    margin-bottom: 15%;
+}
+
+.mtrow {
+
+    margin-top: 10%;
+
+
+}
+
+
+
+
+
+
+
+/* Footer Css */
+a:first-child{margin-right:50px;}
+ul li{
+  font-size: 5px;
+  display: inline-flex;
+  margin-right: 10px;
+}
+
+#Trial-list2>p{
+    display: inline;
+    font-size:14px;
+    
+}
+
+.DotsF{
+
+    color:white;
+    margin:5px;
+    font-size: 18px; 
+}
+
+.Footer-Card {
+    background-color: #0314FE;
+    color: white;
+    
+}
+
+.Footer-Card>h5{
+    font-size: 45px;
+}
+
+.Chat-Button {
+
+    background-color: white;
+    margin-left: 1%;
+}
+
+.Sign-Button{
+    background-color:rgb(123, 199, 37) 
+}
+
+.Footer-Card>a {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 10%;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 10px;
+    
+    
+    }
+    
+    .Footer-Card>a i {
+    
+        font-size: 12px;
+        height:30px;
+    }
